@@ -1,1 +1,2 @@
 # PRODIGY_DS_03
+<h4>This Python code builds a decision tree classifier to predict whether a customer will purchase a product or service based on demographic and behavioral data from the Bank Marketing dataset. It preprocesses the data by encoding categorical variables, splits it into training and testing sets, trains the decision tree classifier, evaluates its performance using accuracy, classification report, and confusion matrix, and visualizes the decision tree.</h4>
